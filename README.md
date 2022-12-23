@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay Baltisberger from Berea College
 - 👀 I’m interested in NMR Spectroscopy and programming in general
-- 📫 How to reach me : https://www.berea.edu/chm/faculty-staff/prof-jay-h-baltisberger/ or 859-985-3298 (work) or email at baltisbergerj@berea.edu
+- 📫 How to reach me : email at jhbalto@hotmail.com
 
 <!---
 jhbalto/jhbalto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
